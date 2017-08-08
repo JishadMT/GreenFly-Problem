@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Green-Fly Problem
 
-You can use the [editor on GitHub](https://github.com/JishadMT/GreenFly-Problem/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JishadMT/GreenFly-Problem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Greenfly can reproduce asexually. After one week of life a lone female can produce eight offspring a day. Starting at the beginning of day 1 with a single mature female, how many greenfly could there be by the end of day 28? It may be assumed that: • There are no deaths • All offspring are females Note that at the end of day 1 there will be 9 greenfly (original + 8 offspring). At the end of day 7 there will be 57 greenfly (original + 8 × 7 offspring). At the end of day 8 there will be 129 greenfly (original + 8 × 8 offspring + 64 offspring from the daughters produced on day 1).
